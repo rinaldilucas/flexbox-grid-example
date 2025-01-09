@@ -15,7 +15,7 @@
   <h3 align="center">Flexbox and Grid Layout example.</h3>
 
   <p align="center">
-    Simple example of usage of flexbox and grid layout.
+    A simple example of the usage of flexbox and grid layout.
     <br />
     <br />
     <a href="https://github.com/rinaldilucas/flexbox-grid-example"><strong>Explore the docs »</strong></a>
@@ -126,7 +126,7 @@ _Below is an example of how you can run the project._
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -168,7 +168,7 @@ Project Link: [https://github.com/rinaldilucas/flexbox-grid-example](https://git
 ## Donations
 
 If you feel that this project has helped you in any way, whether it's attracting clients or teaching you about the technologies used, feel free to make a donation.
-It helps me a lot to continue developing open source codes.
+It helps me a lot to continue developing open-source codes.
 
 -   Metamask (USDT):
     ```sh
